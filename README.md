@@ -83,9 +83,12 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - Jira
   - Browser Developer Tools
   - Build Tools
+  - Git
+  - Perforce
 ### **Project Management**
   - Trello
   - Notion
+  - Confluence
 ### **Tracking Tools**
   - Know how to create bug reports
   - Able to track progress of projects
@@ -101,9 +104,6 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - tvOS
 ### **Miscellaneous Software**
   - Microsoft Office
-  - Git
-  - Perforce
-  - Confluence
   - Cheat Engine
   - Display Driver Uninstaller
   - NVCleanstall
