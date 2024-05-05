@@ -177,23 +177,23 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - [Playable Monsters Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/10)
 # **Work History and Education**
 ### **Current Activities**
-  - (2024-) QA Tester at UTest (Freelance)
+  - (2024-) **QA Tester** at UTest (Freelance)
     - Contributed to QA testing for diverse projects.
     - Selected for Academy All Stars.
-  - (2024-) QA Tester at Test IO (Freelance)
+  - (2024-) **QA Tester** at Test IO (Freelance)
     - Contributed to QA testing for diverse projects.
-  - (2024-) QA Tester at Tester Work (Freelance)
+  - (2024-) **QA Tester** at Tester Work (Freelance)
 ### **Past Jobs**
-  - (2021-2024) QA Technician at Creative Assembly (Remote)
+  - (2021-2024) **QA Technician** at Creative Assembly (Remote)
     - Engaged in QA processes for notable projects such as Total War: WARHAMMER 3.
     - Implemented quality assurance measures in a pre-production environment.
-  - (2019-2021) QA Tester at Dreamteck (Hybrid)
+  - (2019-2021) **QA Tester** at Dreamteck (Hybrid)
     - Engaged in manual testing and QA processes for video game development.
     - Managed community Discord server.
 ### **Past Activities**
-  - (2024-2024) Twitch Streamer (Self-employed)
+  - (2024-2024) **Twitch Streamer** (Self-employed)
     - Experimented with streaming content and building an audience on Twitch.
-  - (2024-2024) Verified Speedrunner (Self-employed)
+  - (2024-2024) **Verified Speedrunner** (Self-employed)
     - Achieved recognition as a skilled speedrunner within the gaming community.
   - (2023-2023) **Web Archivist** (Self-employed)
     - Archived online content for historical preservation purposes. 
