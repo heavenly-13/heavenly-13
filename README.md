@@ -26,7 +26,7 @@ Now, as I transition into a Reporting Specialist role, I'm eager to apply my res
 
 In my free time, I am an avid enthusiast of various activities that fuel my passion for creativity and exploration. I immerse myself in video game modding, where I enjoy tinkering with game mechanics and creating unique experiences. Additionally, I actively contribute to internet archiving efforts, preserving digital content for future generations. My love for gaming extends beyond modding and archiving; I also engage in video game speedruns, constantly pushing the boundaries of gameplay and strategy. Moreover, I have a keen interest in streaming, where I sometimes share my gaming experiences and interact with a community of like-minded individuals.
 
-Alongside my gaming pursuits, I indulge in the realms of music and film criticism, appreciating the nuances of composition and storytelling. Furthermore, I enjoy moderating and helping online communities, fostering engaging discussions and ensuring a positive and inclusive environment for fellow enthusiasts. I've also taken on managerial and administrational positions in various community servers.
+Alongside my gaming pursuits, I indulge in the realms of art and criticism, appreciating the nuances of flow, composition and storytelling. Furthermore, I enjoy moderating and helping online communities, fostering engaging discussions and ensuring a positive and inclusive environment for fellow enthusiasts. I've also taken on managerial and administrational positions in various community servers.
 
 These diverse interests not only enrich my personal life but also inform and inspire my approach to problem-solving and creativity in my professional endeavors.
 #
