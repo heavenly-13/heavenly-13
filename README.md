@@ -183,12 +183,12 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - Experimented with streaming content and building an audience on Twitch.
   - (2024-2024) Verified Speedrunner (Self-employed)
     - Achieved recognition as a skilled speedrunner within the gaming community.
-  - (2023-2023) Content Creator (Self-employed)
-    - Produced gaming videos for Youtube, experimenting with audience engagement and building a personal brand.
   - (2023-2023) Web Archivist (Self-employed)
     - Archived online content for historical preservation purposes. 
   - (2023-2023) Verified Mod Author (Self-employed)
     - Created and shared mods for various video games.
+  - (2023-2023) Content Creator (Self-employed)
+    - Produced gaming videos for Youtube, experimenting with audience engagement and building a personal brand.
   - (2020-2023) Roleplaying Server Manager (Freelance)
     - Managed and moderated online roleplaying servers, fostering a vibrant community.
   - (2019-2019) Magazine Creator (Self-employed)
