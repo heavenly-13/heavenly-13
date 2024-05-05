@@ -26,7 +26,7 @@
     - [Video Game Mods](#video-game-mods)
   - [**Miscellaneous Notes**](#miscellaneous-notes)
     - [PC Specs](#pc-specs)
-    - [For Artists](#for-artists)
+    - [Best Times](#best-times)
     - [No Hello](#no-hello)
 ***
 #  About Me
