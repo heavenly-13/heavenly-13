@@ -171,12 +171,15 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - (2021-2024) QA Technician at Creative Assembly (Remote)
   - (2019-2021) QA Tester at Dreamteck (Hybrid)
 - **Past Activities**
-  - (2024-2024) Twitch Streamer
-  - (2024-2024) Verified Speedrunner
-  - (2023-2023) Verified Mod Author
-  - (2020-2023) Roleplaying Server Manager
-  - (2019-2021) Chief of Moderation at Dreamteck
-  - (2023-2023) Internet Archivist
+  - (2024-2024) Twitch Streamer (Freelance)
+  - (2024-2024) Verified Speedrunner (Freelance)
+  - (2023-2023) Internet Archivist (Freelance)
+  - (2023-2023) Verified Mod Author (Freelance)
+  - (2020-2023) Roleplaying Server Manager (Freelance)
+  - (2019-2021) Chief of Moderation at Dreamteck (Freelance)
+  - (2019-2019) Magazine Creator (Freelance)
+  - (2016-2020) Music and Film Critic (Freelance) 
+  - (2016-2020) Collage Artist (Freelance)
 - **Education**
   - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
   - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
