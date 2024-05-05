@@ -234,7 +234,6 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - **Mouse:** Logitech G102 Lightsync
   - **Cooling pad:** Genesis Oxid 550
   - **Mouse pad:** Xtrfy GP2 XXL
-  - **Camera:** Logitech C270 HD
   - **Microphone:** Audio-Technica AT2020USB+ 
   - **Headphones:** Apple EarPods 2017
   - **Controller:** DualSense
