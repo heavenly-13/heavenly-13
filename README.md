@@ -186,3 +186,23 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 #
 ### No Hello
 https://nohello.net
+
+
+- **QA Technician**
+  - [x] Creative Assembly
+- **QA Tester**
+  - [x] Dreamteck
+- **Freelance Tester**
+  - [x] UTest
+  - [x] Test IO
+  - [x] Tester Work
+- **Verified Mod Author**
+- **Twitch Streamer**
+- **Rolepaying Server Staff**
+  - [x] Manager
+  - [] Head of Media
+  - [] Head of Factions
+  - [] General Administrator
+  - [] Junior Administrator
+  - [] Helper
+  - [] Junior Helper
