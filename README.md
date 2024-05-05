@@ -193,6 +193,8 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - Managed and moderated online roleplaying servers, fostering a vibrant community.
   - (2019-2019) Magazine Creator (Self-employed)
     - Founded and self-published a magazine covering local artists and trends.
+  - (2019-2019) Amateur Music Producer (Self-employed)
+    - Collaborated with a friend to produce and release a few songs on SoundCloud.
   - (2016-2020) Music and Film Critic (Self-employed)
     - Reviewed and analyzed music and film releases, sharing insights on online platforms.
   - (2016-2020) Collage Artist (Self-employed)
