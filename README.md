@@ -188,20 +188,21 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 https://nohello.net
 
 ### Work History
+
+- **Current Activities:**
+  - QA Tester at UTest
+  - QA Tester at Test IO
+  - QA Tester at Tester Work
+  
 - **Past Jobs:**
   - QA Technician at Creative Assembly
   - QA Tester at Dreamteck
 
-- **Current Freelance Activities:**
-  - QA Tester at UTest
-  - QA Tester at Test IO
-  - QA Tester at Tester Work
-  - Verified Mod Author
-  - Verified Speedrunner
-  - Twitch Streamer
-  
-- **Past Freelance Activities:**
+- **Past Activities:**
   - Roleplaying Server Manager
     - Head of Media
     - Head of Factions
   - Chief of Moderation at Dreamteck
+  - Verified Mod Author
+  - Verified Speedrunner
+  - Twitch Streamer
