@@ -28,6 +28,7 @@
     - [PC Specs](#pc-specs)
     - [Best Times](#best-times)
     - [No Hello](#no-hello)
+    - [Work History and Education](#work-history-and-education)
 ***
 #  About Me
 I bring a balanced blend of skills to the table, rooted in meticulous organization and effective communication. With a background in quality assurance testing, I've honed my ability to ensure top-notch quality while also excelling in problem-solving and interpersonal communication.
@@ -186,21 +187,22 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 #
 ### No Hello
 https://nohello.net
-
-### Work History
-
-- **Current Activities:**
+#
+### Work History and Education
+- **Current Activities**
   - (2024-) QA Tester at UTest
   - (2024-) QA Tester at Test IO
   - (2024-) QA Tester at Tester Work
   - (2024-) Twitch Streamer
   - (2024-) Verified Speedrunner
   - (2023-) Verified Mod Author
-  
-- **Past Jobs:**
+- **Past Jobs**
   - (2021-2024) QA Technician at Creative Assembly
   - (2019-2021) QA Tester at Dreamteck
-
-- **Past Activities:**
+- **Past Activities**
   - (2020-2023) Roleplaying Server Manager
   - (2019-2021) Chief of Moderation at Dreamteck 
+- **Education**
+  - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
+  - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
+  - (2008-2012) Geodesy at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
