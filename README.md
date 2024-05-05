@@ -195,28 +195,30 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - Experimented with streaming content and building an audience on Twitch.
   - (2024-2024) Verified Speedrunner (Self-employed)
     - Achieved recognition as a skilled speedrunner within the gaming community.
-  - (2023-2023) Web Archivist (Self-employed)
+  - (2023-2023) **Web Archivist** (Self-employed)
     - Archived online content for historical preservation purposes. 
-  - (2023-2023) Verified Mod Author (Self-employed)
+  - (2023-2023) **Verified Mod Author** (Self-employed)
     - Created and shared mods for various video games.
-  - (2023-2023) Content Creator (Self-employed)
+  - (2023-2023) **Content Creator** (Self-employed)
     - Produced gaming videos for Youtube, experimenting with audience engagement and building a personal brand.
-  - (2020-2023) Roleplaying Server Manager (Freelance)
+  - (2020-2023) **Roleplaying Server Manager** (Freelance)
     - Managed and moderated online roleplaying servers, fostering a vibrant community.
-  - (2019-2019) Magazine Creator (Self-employed)
+  - (2019-2019) **Magazine Creator** (Self-employed)
     - Founded and self-published a magazine covering local artists and trends.
-  - (2019-2019) Amateur Music Producer (Self-employed)
+  - (2019-2019) **Amateur Music Producer** (Self-employed)
     - Collaborated with a friend to produce and release a few songs on SoundCloud.
-  - (2016-2020) Music and Film Critic (Self-employed)
+  - (2016-2020) **Music and Film Critic** (Self-employed)
     - Reviewed and analyzed music and film releases, sharing insights on online platforms.
-  - (2016-2020) Collage Artist (Self-employed)
+  - (2016-2020) **Collage Artist** (Self-employed)
     - Created paper and digital collages, showcasing artistic creations at local gatherings.
+  - (2014-2016) **Amateur Musician**
+    - Created original songs independently and collaboratively with friends.
 ### **Education**
-  - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
+  - (2016-2019) **Cultural Studies** at Sofia University St. Kliment Ohridski
     - Explored various aspects of cultural anthropology and gained insights into cultural phenomena.
-  - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
+  - (2013-2015) **Scandinavian Studies** at Sofia University St. Kliment Ohridski
     - Studied linguistics and cultural aspects of Scandinavian countries, expanding language proficiency and cultural understanding.
-  - (2008-2012) Geodesy at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
+  - (2008-2012) **Geodesy** at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
     - Developed foundational knowledge in geodesy, including surveying and mapping techniques, during high school education.
 #  **Miscellaneous Notes**
 ### **PC Specs**
