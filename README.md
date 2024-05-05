@@ -158,13 +158,10 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - **Creation:** Created using modding tools and resources provided by The Sims modding community. Utilized 3D modeling software for creating custom clothing items and textures. Implemented custom animations and interactions using tools compatible with The Sims game engine.
 ### **Internet Archival**
 - **Archived Software**
-  - Microsoft.VCLibs.110.00
-- **Abandonware Games**
-  - Bonkheads
-  - Grand Theft Auto Vice City - Long Nights Mod
-  - WWE RAW
-- **Archived Documents**
-  - Various photos and social media posts
+  - [Microsoft.VCLibs.110.00](https://drive.google.com/drive/folders/1963Nzk1LYkkQMjR_nhOOWuRTShVdzc3F?usp=sharing)
+- **Archived Mods**
+  - [White Rabbit Playable NPC Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/9)
+  - [Playable Monsters Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/10)
 # **Work History and Education**
 - **Current Activities**
   - (2024-) QA Tester at UTest (Freelance)
