@@ -237,7 +237,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - **Camera:** Logitech C270 HD
   - **Microphone:** Audio-Technica AT2020USB+ 
   - **Headphones:** Apple EarPods 2017
-  - **Controller:** Xbox 2020 and DualSense
+  - **Controller:** DualSense
   - **USB Hub:** Trust Halyx
   - **Desk:** Ikea Utespelare
   - **Chair:** Cougar - Armor Elite, Royal
