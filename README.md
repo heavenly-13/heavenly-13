@@ -190,17 +190,17 @@ https://nohello.net
 ### Work History
 
 - **Current Activities:**
-  - QA Tester at UTest (2024-)
-  - QA Tester at Test IO (2024-)
-  - QA Tester at Tester Work (2024-)
-  - Twitch Streamer (2024-)
-  - Verified Speedrunner (2024-)
-  - Verified Mod Author (2023-)
+  - (2024-) QA Tester at UTest
+  - (2024-) QA Tester at Test IO
+  - (2024-) QA Tester at Tester Work
+  - (2024-) Twitch Streamer
+  - (2024-) Verified Speedrunner
+  - (2023-) Verified Mod Author
   
 - **Past Jobs:**
-  - QA Technician at Creative Assembly (2021-2024)
-  - QA Tester at Dreamteck (2019-2021)
+  - (2021-2024) QA Technician at Creative Assembly
+  - (2019-2021) QA Tester at Dreamteck
 
 - **Past Activities:**
-  - Roleplaying Server Manager (2020-2023)
-  - Chief of Moderation at Dreamteck (2019-2021)
+  - (2020-2023) Roleplaying Server Manager
+  - (2019-2021) Chief of Moderation at Dreamteck 
