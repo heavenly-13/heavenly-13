@@ -24,11 +24,11 @@
   - [**Examples of my work**](#examples-of-my-work)
     - [Bug Reports](#bug-reports)
     - [Video Game Mods](#video-game-mods)
+  - [**Work History and Education**](#work-history-and-education)
   - [**Miscellaneous Notes**](#miscellaneous-notes)
     - [PC Specs](#pc-specs)
     - [Best Times](#best-times)
     - [No Hello](#no-hello)
-    - [Work History and Education](#work-history-and-education)
 ***
 #  About Me
 I bring a balanced blend of skills to the table, rooted in meticulous organization and effective communication. With a background in quality assurance testing, I've honed my ability to ensure top-notch quality while also excelling in problem-solving and interpersonal communication.
@@ -156,6 +156,24 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 - **The Sims Mod:** [Billie Eilish - 2021 Gala After-Party](https://www.nexusmods.com/thesims/mods/250) - July 2023
   - **Description:** Bring a touch of celebrity glamour to your Sims' lives with this mod inspired by the 2021 Gala After-Party. Dress your Sims in fashionable attire and host exclusive gatherings reminiscent of Hollywood's elite events. This mod adds new clothing options for Sims players to enjoy.
   - **Creation:** Created using modding tools and resources provided by The Sims modding community. Utilized 3D modeling software for creating custom clothing items and textures. Implemented custom animations and interactions using tools compatible with The Sims game engine.
+# **Work History and Education**
+- **Current Activities**
+  - (2024-) QA Tester at UTest
+  - (2024-) QA Tester at Test IO
+  - (2024-) QA Tester at Tester Work
+  - (2024-) Twitch Streamer
+  - (2024-) Verified Speedrunner
+  - (2023-) Verified Mod Author
+- **Past Jobs**
+  - (2021-2024) QA Technician at Creative Assembly
+  - (2019-2021) QA Tester at Dreamteck
+- **Past Activities**
+  - (2020-2023) Roleplaying Server Manager
+  - (2019-2021) Chief of Moderation at Dreamteck 
+- **Education**
+  - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
+  - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
+  - (2008-2012) Geodesy at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
 #  **Miscellaneous Notes**
 ### **PC Specs**
 #### **Laptop**
@@ -187,22 +205,3 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 #
 ### No Hello
 https://nohello.net
-#
-### Work History and Education
-- **Current Activities**
-  - (2024-) QA Tester at UTest
-  - (2024-) QA Tester at Test IO
-  - (2024-) QA Tester at Tester Work
-  - (2024-) Twitch Streamer
-  - (2024-) Verified Speedrunner
-  - (2023-) Verified Mod Author
-- **Past Jobs**
-  - (2021-2024) QA Technician at Creative Assembly
-  - (2019-2021) QA Tester at Dreamteck
-- **Past Activities**
-  - (2020-2023) Roleplaying Server Manager
-  - (2019-2021) Chief of Moderation at Dreamteck 
-- **Education**
-  - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
-  - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
-  - (2008-2012) Geodesy at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
