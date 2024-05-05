@@ -187,22 +187,21 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ### No Hello
 https://nohello.net
 
+### Work History
+- **Past Jobs:**
+  - QA Technician at Creative Assembly
+  - QA Tester at Dreamteck
 
-- **QA Technician**
-  - [x] Creative Assembly
-- **QA Tester**
-  - [x] Dreamteck
-- **Freelance Tester**
-  - [x] UTest
-  - [x] Test IO
-  - [x] Tester Work
-- **Verified Mod Author**
-- **Twitch Streamer**
-- **Rolepaying Server Staff**
-  - [x] Manager
-  - [] Head of Media
-  - [] Head of Factions
-  - [] General Administrator
-  - [] Junior Administrator
-  - [] Helper
-  - [] Junior Helper
+- **Current Freelance Activities:**
+  - QA Tester at UTest
+  - QA Tester at Test IO
+  - QA Tester at Tester Work
+  - Verified Mod Author
+  - Verified Speedrunner
+  - Twitch Streamer
+  
+- **Past Freelance Activities:**
+  - Roleplaying Server Manager
+    - Head of Media
+    - Head of Factions
+  - Chief of Moderation at Dreamteck
