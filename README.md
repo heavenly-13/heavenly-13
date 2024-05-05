@@ -197,8 +197,11 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - Created paper and digital collages, showcasing artistic creations at local gatherings.
 ### **Education**
   - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
+    - Explored various aspects of cultural anthropology and gained insights into cultural phenomena.
   - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
+    - Studied linguistics and cultural aspects of Scandinavian countries, expanding language proficiency and cultural understanding.
   - (2008-2012) Geodesy at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
+    - Developed foundational knowledge in geodesy, including surveying and mapping techniques, during high school education.
 #  **Miscellaneous Notes**
 ### **PC Specs**
 #### **Laptop**
