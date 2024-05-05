@@ -166,21 +166,35 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 # **Work History and Education**
 ### **Current Activities**
   - (2024-) QA Tester at UTest (Freelance)
+    - Contributed to QA testing for diverse projects.
+    - Selected for Academy All Stars.
   - (2024-) QA Tester at Test IO (Freelance)
+    - Contributed to QA testing for diverse projects.
   - (2024-) QA Tester at Tester Work (Freelance)
 ### **Past Jobs**
   - (2021-2024) QA Technician at Creative Assembly (Remote)
+    - Engaged in QA processes for notable projects such as Total War: WARHAMMER 3.
+    - Implemented quality assurance measures in a pre-production environment.
   - (2019-2021) QA Tester at Dreamteck (Hybrid)
+    - Engaged in manual testing and QA processes for video game development.
+    - Managed community Discord server.
 ### **Past Activities**
   - (2024-2024) Twitch Streamer (Self-employed)
+    - Experimented with streaming content and building an audience on Twitch.
   - (2024-2024) Verified Speedrunner (Self-employed)
+    - Achieved recognition as a skilled speedrunner within the gaming community.
   - (2023-2023) Web Archivist (Self-employed)
+    - Archived online content for historical preservation purposes. 
   - (2023-2023) Verified Mod Author (Self-employed)
+    - Created and shared mods for various video games.
   - (2020-2023) Roleplaying Server Manager (Freelance)
-  - (2019-2021) Chief of Moderation at Dreamteck (Freelance)
+    - Managed and moderated online roleplaying servers, fostering a vibrant community.
   - (2019-2019) Magazine Creator (Self-employed)
-  - (2016-2020) Music and Film Critic (Self-employed) 
+    - Founded and self-published a magazine covering local music and fashion.
+  - (2016-2020) Music and Film Critic (Self-employed)
+    - Reviewed and analyzed music and film releases, sharing insights on online platforms.
   - (2016-2020) Collage Artist (Self-employed)
+    - Created paper and digital collages, showcasing artistic creations at local gatherings
 ### **Education**
   - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
   - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
