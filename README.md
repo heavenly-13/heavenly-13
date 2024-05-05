@@ -164,14 +164,14 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - [White Rabbit Playable NPC Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/9)
   - [Playable Monsters Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/10)
 # **Work History and Education**
-- **Current Activities**
+### **Current Activities**
   - (2024-) QA Tester at UTest (Freelance)
   - (2024-) QA Tester at Test IO (Freelance)
   - (2024-) QA Tester at Tester Work (Freelance)
-- **Past Jobs**
+### **Past Jobs**
   - (2021-2024) QA Technician at Creative Assembly (Remote)
   - (2019-2021) QA Tester at Dreamteck (Hybrid)
-- **Past Activities**
+### **Past Activities**
   - (2024-2024) Twitch Streamer (Self-employed)
   - (2024-2024) Verified Speedrunner (Self-employed)
   - (2023-2023) Web Archivist (Self-employed)
@@ -181,7 +181,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - (2019-2019) Magazine Creator (Self-employed)
   - (2016-2020) Music and Film Critic (Self-employed) 
   - (2016-2020) Collage Artist (Self-employed)
-- **Education**
+### **Education**
   - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
   - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
   - (2008-2012) Geodesy at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
