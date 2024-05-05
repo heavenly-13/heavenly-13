@@ -23,6 +23,7 @@
     - [Modding Software](#modding-software)
   - [**Examples of my work**](#examples-of-my-work)
     - [Bug Reports](#bug-reports)
+    - [Tested Projects](#tested-projects)
     - [Video Game Mods](#video-game-mods)
     - [Web Archival](#web-archival)
   - [**Work History and Education**](#work-history-and-education)
