@@ -158,12 +158,12 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - **Creation:** Created using modding tools and resources provided by The Sims modding community. Utilized 3D modeling software for creating custom clothing items and textures. Implemented custom animations and interactions using tools compatible with The Sims game engine.
 # **Work History and Education**
 - **Current Activities**
-  - (2024-) QA Tester at UTest
-  - (2024-) QA Tester at Test IO
-  - (2024-) QA Tester at Tester Work
+  - (2024-) QA Tester at UTest (Freelance)
+  - (2024-) QA Tester at Test IO (Freelance)
+  - (2024-) QA Tester at Tester Work (Freelance)
 - **Past Jobs**
-  - (2021-2024) QA Technician at Creative Assembly
-  - (2019-2021) QA Tester at Dreamteck
+  - (2021-2024) QA Technician at Creative Assembly (Remote)
+  - (2019-2021) QA Tester at Dreamteck (Hybrid)
 - **Past Activities**
   - (2024-2024) Twitch Streamer
   - (2024-2024) Verified Speedrunner
