@@ -85,6 +85,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - Build Tools
   - Git
   - Perforce
+  - TestFlight
 ### **Project Management**
   - Trello
   - Notion
