@@ -156,6 +156,15 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 - **The Sims Mod:** [Billie Eilish - 2021 Gala After-Party](https://www.nexusmods.com/thesims/mods/250) - July 2023
   - **Description:** Bring a touch of celebrity glamour to your Sims' lives with this mod inspired by the 2021 Gala After-Party. Dress your Sims in fashionable attire and host exclusive gatherings reminiscent of Hollywood's elite events. This mod adds new clothing options for Sims players to enjoy.
   - **Creation:** Created using modding tools and resources provided by The Sims modding community. Utilized 3D modeling software for creating custom clothing items and textures. Implemented custom animations and interactions using tools compatible with The Sims game engine.
+### **Internet Archival**
+- **Archived Software**
+  - Microsoft.VCLibs.110.00
+- **Abandonware Games**
+  - Bonkheads
+  - Grand Theft Auto Vice City - Long Nights Mod
+  - WWE RAW
+- **Archived Documents**
+  - Various photos and social media posts
 # **Work History and Education**
 - **Current Activities**
   - (2024-) QA Tester at UTest (Freelance)
@@ -169,7 +178,8 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - (2024-2024) Verified Speedrunner
   - (2023-2023) Verified Mod Author
   - (2020-2023) Roleplaying Server Manager
-  - (2019-2021) Chief of Moderation at Dreamteck 
+  - (2019-2021) Chief of Moderation at Dreamteck
+  - (2023-2023) Internet Archivist
 - **Education**
   - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
   - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
