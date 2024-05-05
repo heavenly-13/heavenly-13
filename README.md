@@ -150,6 +150,17 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 #  **Examples of my work**
 ### **Bug Reports**
 - An example of bug documentation. [Check the screenshot of the bug report.](https://i.imgur.com/l0uiqWb.png)
+
+### **Tested Projects**
+- **Unnanounced Project**
+- [**Total War: PHARAOH**](https://pharaoh.totalwar.com/)
+- [**Total War: WARHAMMER 3 - Immortal Empires**](https://www.totalwar.com/blog/tww3_immortalempires_240_faq/)
+- [**Total War: WARHAMMER 3**](https://warhammer3.totalwar.com/)
+- [**Total War: WARHAMMER 2**](https://www.totalwar.com/games/warhammer-ii/)
+- [**A Total War Saga: TROY - Rhesus & Memnon**](https://www.totalwar.com/blog/total-war-troy-rhesus-memnon-faq/)
+- [**A Total War Saga: TROY - Mythos**](https://www.totalwar.com/games/troy/troy-mythos-dlc/)
+- [**A Total War Saga: TROY**](https://www.totalwar.com/games/troy/)
+- [**Lifeslide**](https://lifeslide.io/)
 ### **Video Game Mods**
 - **Morrowind Mod:** [jvk1166z.esp - The Haunted Morrowind Mod](https://www.nexusmods.com/morrowind/mods/53119) - June 2023
   - **Description:** Explore the eerie and mysterious world of Morrowind with this haunting mod. Delve into new quests, encounter supernatural entities, and uncover the dark secrets hidden within the game world. This mod provides a chilling and immersive experience for players seeking adventure in Morrowind's haunted landscapes.
