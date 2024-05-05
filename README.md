@@ -161,13 +161,13 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - (2024-) QA Tester at UTest
   - (2024-) QA Tester at Test IO
   - (2024-) QA Tester at Tester Work
-  - (2024-) Twitch Streamer
-  - (2024-) Verified Speedrunner
-  - (2023-) Verified Mod Author
 - **Past Jobs**
   - (2021-2024) QA Technician at Creative Assembly
   - (2019-2021) QA Tester at Dreamteck
 - **Past Activities**
+  - (2024-2024) Twitch Streamer
+  - (2024-2024) Verified Speedrunner
+  - (2023-2023) Verified Mod Author
   - (2020-2023) Roleplaying Server Manager
   - (2019-2021) Chief of Moderation at Dreamteck 
 - **Education**
