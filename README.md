@@ -51,34 +51,34 @@ To obtain a remote position in a dynamic and innovative organization where I can
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1f60C9fG812FchqJYNyAEo_Nb9KRVVl_j/view?usp=sharing).
 # Skills
 ### **Testing Skills**
-- #### Manual Testing
+- **Manual Testing**
   - Proficient in manual functional and usability testing of web applications.
   - Hands-on experience gained through testing educational applications.
-- #### Test Analysis & Design
+- **Test Analysis & Design**
   - Skilled in functional decomposition of products and writing use cases.
   - Capable of applying methods to generate test input data.
-- #### Exploratory Testing
+- **Exploratory Testing**
   - Familiar with Whittaker’s test tours methodology.
-- #### Test Documentation
+- **Test Documentation**
   - Proficient in creating test cases and check-lists.
   - Able to prepare comprehensive bug reports and detailed session reports.
 ### **Methodologies**
-- #### Agile Methodologies
+- **Agile Methodologies**
   - Experienced in Agile methodologies, particularly Scrum and Kanban.
 ### **Cross-Device & Cross-Platform Testing**
   - Proficient in testing across various devices and platforms.
 ### **Build Management**
   - Experienced in build management processes.
 ### **Soft Skills**
-- #### Communication
+- **Communication**
   - Effective communicator, essential for remote work and team collaboration.
-- #### Teamwork
+- **Teamwork**
   - Collaborative approach towards team projects.
-- #### Attention to Detail
+- **Attention to Detail**
   - Meticulous in ensuring thoroughness and accuracy in tasks.
-- #### Dedication
+- **Dedication**
   - Committed to delivering high-quality results.
-- #### Specialization in Remote Work
+- **Specialization in Remote Work**
   - Experienced and proficient in remote work environments.
 #  **Tools**
 ### **Development Tools**
