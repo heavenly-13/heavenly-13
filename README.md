@@ -9,6 +9,18 @@
     - [Build Management](#build-management)
     - [Soft Skills](#soft-skills)
   - [**Tools**](#tools)
+    - [Development Tools](#development-tools)
+    - [Project Management](#project-management)
+    - [Tracking Tools](#tracking-tools)
+    - [Virtualization](#virtualization)
+    - [Software Platforms](#software-platforms)
+    - [Miscellaneous Software](#miscellaneous-software)
+    - [Application Stores](#application-stores)
+    - [Development Software](#development-software)
+    - [Graphics Software](#graphics-software)
+    - [Communication](#communication)
+    - [Proxying](#proxying)
+    - [Modding Software](#modding-software)
   - [**Examples of my work**](#examples-of-my-work)
     - [Bug Reports](#bug-reports)
     - [Video Game Mods](#video-game-mods)
@@ -66,28 +78,28 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 - #### Specialization in Remote Work
   - Experienced and proficient in remote work environments.
 #  **Tools**
-#### **Development Tools**
+### **Development Tools**
   - TestRail
   - Jira
   - Browser Developer Tools
   - Build Tools
-#### **Project Management**
+### **Project Management**
   - Trello
   - Notion
-#### **Tracking Tools**
+### **Tracking Tools**
   - Know how to create bug reports
   - Able to track progress of projects
   - Able to use boards and track project progress
-#### **Virtualization**
+### **Virtualization**
   - VirtualBox
   - Able to set up and operate virtual machines
-#### **Software Platforms**
+### **Software Platforms**
   - Windows
   - MacOS
   - Linux
   - iOS
   - tvOS
-#### **Miscellaneous Software**
+### **Miscellaneous Software**
   - Microsoft Office
   - Git
   - Perforce
@@ -96,16 +108,16 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - Display Driver Uninstaller
   - NVCleanstall
   - LiveSplit
-#### **Application Stores**
+### **Application Stores**
   - Steam
   - Epic Games
   - Microsoft Store
   - Apple Arcade
-#### **Development Software**
+### **Development Software**
   - Unreal
   - Unity
   - Xcode
-#### **Graphics Software**
+### **Graphics Software**
   - Adobe Photoshop
   - Gimp
   - Paint
@@ -116,16 +128,16 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - OpenShot
   - ScreenPal
   - HandBrake
-#### **Communication**
+### **Communication**
   - Skype
   - Microsoft Teams
   - Discord
-#### **Proxying**
+### **Proxying**
   - Charles Proxy
   - OpenVPN
   - Radmin VPN
   - Proton VPN
-#### **Modding Software**
+### **Modding Software**
   - TES Construction Set
   - The Sims Creator
   - FAR Edit
