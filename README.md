@@ -173,7 +173,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 - **Past Activities**
   - (2024-2024) Twitch Streamer (Freelance)
   - (2024-2024) Verified Speedrunner (Freelance)
-  - (2023-2023) Internet Archivist (Freelance)
+  - (2023-2023) Web Archivist (Freelance)
   - (2023-2023) Verified Mod Author (Freelance)
   - (2020-2023) Roleplaying Server Manager (Freelance)
   - (2019-2021) Chief of Moderation at Dreamteck (Freelance)
