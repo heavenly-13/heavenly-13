@@ -93,7 +93,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ### **Tracking Tools**
   - Know how to create bug reports
   - Able to track progress of projects
-  - Able to use boards and track project progress
+  - Able to use boards and track changes in design
 ### **Virtualization**
   - VirtualBox
   - Able to set up and operate virtual machines
