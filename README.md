@@ -190,11 +190,11 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - (2020-2023) Roleplaying Server Manager (Freelance)
     - Managed and moderated online roleplaying servers, fostering a vibrant community.
   - (2019-2019) Magazine Creator (Self-employed)
-    - Founded and self-published a magazine covering local music and fashion.
+    - Founded and self-published a magazine covering local artists and trends.
   - (2016-2020) Music and Film Critic (Self-employed)
     - Reviewed and analyzed music and film releases, sharing insights on online platforms.
   - (2016-2020) Collage Artist (Self-employed)
-    - Created paper and digital collages, showcasing artistic creations at local gatherings
+    - Created paper and digital collages, showcasing artistic creations at local gatherings.
 ### **Education**
   - (2016-2019) Cultural Studies at Sofia University St. Kliment Ohridski
   - (2013-2015) Scandinavian Studies at Sofia University St. Kliment Ohridski
