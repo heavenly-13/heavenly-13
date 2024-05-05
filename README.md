@@ -151,8 +151,10 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ### **Video Game Mods**
 - **Morrowind Mod:** [jvk1166z.esp - The Haunted Morrowind Mod](https://www.nexusmods.com/morrowind/mods/53119)
   - **Description:** Explore the eerie and mysterious world of Morrowind with this haunting mod. Delve into new quests, encounter supernatural entities, and uncover the dark secrets hidden within the game world. This mod provides a chilling and immersive experience for players seeking adventure in Morrowind's haunted landscapes.
+  - **Creation:** Developed using a combination of scripting languages and modding tools specific to the Morrowind game engine. Employed techniques such as level design, quest scripting, and asset integration to bring the haunted atmosphere to life. Made by tweaking a deprecated version of a similar mod, combining it with various community efforts and fixing localization, texture and consistency issues. Ensured compatibility with the OpenMW engine.
 - **The Sims Mod:** [Billie Eilish - 2021 Gala After-Party](https://www.nexusmods.com/thesims/mods/250)
   - **Description:** Bring a touch of celebrity glamour to your Sims' lives with this mod inspired by the 2021 Gala After-Party. Dress your Sims in fashionable attire, decorate luxurious party venues, and host exclusive gatherings reminiscent of Hollywood's elite events. This mod adds new clothing options, decor items, and social interactions for Sims players to enjoy.
+  - **Creation:** Created using modding tools and resources provided by The Sims modding community. Utilized 3D modeling software for creating custom clothing items and textures. Implemented custom animations and interactions using tools compatible with The Sims game engine.
 #  **Miscellaneous Notes**
 ### **PC Specs**
 #### **Laptop**
