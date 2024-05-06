@@ -211,6 +211,8 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - Reviewed and analyzed music and film releases, sharing insights on online platforms.
   - (2016-2020) **Collage Artist** (Self-employed)
     - Created paper and digital collages, showcasing artistic creations at local gatherings.
+  - (2013-2013) **Cellar Hand** (Part-time)
+    - Assisted with the grape grinding process for wine production, as well as cleaning grape cassettes and the work area.
   - (2012-2016) **Amateur Musician** (Self-employed)
     - Created original songs independently and collaboratively with friends.
 ### **Education**
