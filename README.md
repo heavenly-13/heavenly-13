@@ -27,6 +27,11 @@
     - [Video Game Mods](#video-game-mods)
     - [Web Archival](#web-archival)
   - [**Work History and Education**](#work-history-and-education)
+    - [Current Activities](#current-activities)
+    - [Past Jobs](#past-jobs)
+    - [Past Activities](#past-activities)
+    - [Education](#education)
+    - [Languages](#languages)
   - [**Miscellaneous Notes**](#miscellaneous-notes)
     - [PC Specs](#pc-specs)
     - [Best Times](#best-times)
@@ -222,6 +227,17 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - Studied linguistics and cultural aspects of Scandinavian countries, expanding language proficiency and cultural understanding.
   - (2008-2012) **Geodesy** at Sofia High School of Construction, Architecture and Geodesy Hristo Botev
     - Developed foundational knowledge in geodesy, including surveying and mapping techniques, during high school education.
+### **Languages**
+  -  **Bulgarian**
+    -  Native or bilingual proficiency
+  -  **English**
+    -  Full professional proficiency
+  -  **Swedish**
+    -  Elementary proficiency
+  -   **Norwegian**
+    -  Elementary proficiency
+  -   **German**
+    -  Elementary proficiency
 #  **Miscellaneous Notes**
 ### **PC Specs**
 #### **Laptop**
