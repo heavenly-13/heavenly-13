@@ -196,7 +196,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - Engaged in manual testing and QA processes for video game development.
     - Managed community Discord server.
 ### **Past Activities**
-  - (2024-2024) **Twitch Streamer** (Self-employed)
+  - (2024-2024) **Online Streamer** (Self-employed)
     - Experimented with streaming content and building an audience on Twitch.
   - (2024-2024) **Verified Speedrunner** (Self-employed)
     - Achieved recognition as a skilled speedrunner within the gaming community.
