@@ -273,8 +273,9 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 https://nohello.net
 #
 ### **Referrals**
-  - Freelance Testing 
+  - **Freelance Testing** 
     -  https://www.utest.com/ref1972646
     -  https://join.test.io/DrZZf7Opmou3
-  - MU Online
+    -  https://gametester.gg?refId=UU-663a0a2539620b9f94c1c3f3
+  - **Games**
     -  https://mubz.bg#!register#Dyx4e
