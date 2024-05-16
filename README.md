@@ -274,8 +274,7 @@ https://nohello.net
 #
 ### **Referrals**
   - Freelance Testing 
-    https://www.utest.com/ref1972646
-  - Freelance Testing 
-    https://join.test.io/DrZZf7Opmou3
-  - MU Online 0.97+0.99i Server 
+    -  https://www.utest.com/ref1972646
+    -  https://join.test.io/DrZZf7Opmou3
+  - MU Online
     https://mubz.bg#!register#Dyx4e
