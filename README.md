@@ -105,6 +105,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - Able to use boards and track changes in design
 ### **Virtualization**
   - VirtualBox
+  - VMware Workstation Pro
   - Able to set up and operate virtual machines
 ### **Software Platforms**
   - Windows
