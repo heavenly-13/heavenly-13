@@ -277,4 +277,4 @@ https://nohello.net
     -  https://www.utest.com/ref1972646
     -  https://join.test.io/DrZZf7Opmou3
   - MU Online
-    https://mubz.bg#!register#Dyx4e
+    -  https://mubz.bg#!register#Dyx4e
