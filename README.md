@@ -278,9 +278,6 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - **2PC Chungus%** - 9:59:020 (20th Worldwide)
     - **2PC NG+** - 9:51:470 (30th Worldwide)
 #
-### **No Hello**
-https://nohello.net
-#
 ### **Referrals**
   - **Freelance** 
     -  https://www.utest.com/ref1972646
