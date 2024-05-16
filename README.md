@@ -68,6 +68,12 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 - **Test Documentation**
   - Proficient in creating test cases and check-lists.
   - Able to prepare comprehensive bug reports and detailed session reports.
+-  **Bug Tracking**
+  - Logging, managing, and tracking bugs or issues encountered during software development and testing.
+-  **Project Progress Tracking**
+  - Tracking of project progress, milestones, and tasks assigned to team members.
+- **Design Changes Tracking**
+  - Tracking changes in design, collaboration among team members, and version control for assets.
 ### **Methodologies**
 - **Agile Methodologies**
   - Experienced in Agile methodologies, particularly Scrum and Kanban.
@@ -78,6 +84,8 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ### **Soft Skills**
 - **Communication**
   - Effective communicator, essential for remote work and team collaboration.
+- **Visual Communication**
+  - Proficiency in creating beautiful mind maps, diagrams and designs to visually represent information and concepts effectively.
 - **Teamwork**
   - Collaborative approach towards team projects.
 - **Attention to Detail**
