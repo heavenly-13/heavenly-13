@@ -36,6 +36,7 @@
     - [PC Specs](#pc-specs)
     - [Best Times](#best-times)
     - [No Hello](#no-hello)
+    - [Referrals](#referrals)
 ***
 #  About Me
 I bring a balanced blend of skills to the table, rooted in meticulous organization and effective communication. With a background in quality assurance testing, I've honed my ability to ensure top-notch quality while also excelling in problem-solving and interpersonal communication.
@@ -268,5 +269,13 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     - **2PC Chungus%** - 9:59:020 (20th Worldwide)
     - **2PC NG+** - 9:51:470 (30th Worldwide)
 #
-### No Hello
+### **No Hello**
 https://nohello.net
+#
+### **Referrals**
+  - Freelance Testing 
+    https://www.utest.com/ref1972646
+  - Freelance Testing 
+    https://join.test.io/DrZZf7Opmou3
+  - MU Online 0.97+0.99i Server 
+    https://mubz.bg#!register#Dyx4e
