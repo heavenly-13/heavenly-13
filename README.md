@@ -21,21 +21,20 @@
     - [Communication](#communication)
     - [Proxying](#proxying)
     - [Modding Software](#modding-software)
-  - [**Examples of my work**](#examples-of-my-work)
-    - [Bug Reports](#bug-reports)
-    - [Tested Projects](#tested-projects)
-    - [Video Game Mods](#video-game-mods)
-    - [Web Archival](#web-archival)
   - [**Work History and Education**](#work-history-and-education)
     - [Current Activities](#current-activities)
     - [Past Jobs](#past-jobs)
     - [Past Activities](#past-activities)
     - [Education](#education)
     - [Languages](#languages)
+  - [**Examples of my work**](#examples-of-my-work)
+    - [Bug Reports](#bug-reports)
+    - [Tested Projects](#tested-projects)
+    - [Video Game Mods](#video-game-mods)
+    - [Web Archival](#web-archival)
+    - [Best Times](#best-times)
   - [**Miscellaneous Notes**](#miscellaneous-notes)
     - [PC Specs](#pc-specs)
-    - [Best Times](#best-times)
-    - [No Hello](#no-hello)
     - [Referrals](#referrals)
 ***
 #  About Me
@@ -163,33 +162,6 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - SimPose
   - Blender
   - Magic.TXD
-#  **Examples of my work**
-### **Bug Reports**
-- An example of bug documentation. [Check the screenshot of the bug report.](https://i.imgur.com/l0uiqWb.png)
-
-### **Tested Projects**
-- **Unnanounced Project**
-- [**Total War: PHARAOH**](https://pharaoh.totalwar.com/)
-- [**Total War: WARHAMMER 3 - Immortal Empires**](https://www.totalwar.com/blog/tww3_immortalempires_240_faq/)
-- [**Total War: WARHAMMER 3**](https://warhammer3.totalwar.com/)
-- [**Total War: WARHAMMER 2**](https://www.totalwar.com/games/warhammer-ii/)
-- [**A Total War Saga: TROY - Rhesus & Memnon**](https://www.totalwar.com/blog/total-war-troy-rhesus-memnon-faq/)
-- [**A Total War Saga: TROY - Mythos**](https://www.totalwar.com/games/troy/troy-mythos-dlc/)
-- [**A Total War Saga: TROY**](https://www.totalwar.com/games/troy/)
-- [**Lifeslide**](https://lifeslide.io/)
-### **Video Game Mods**
-- **Morrowind Mod:** [jvk1166z.esp - The Haunted Morrowind Mod](https://www.nexusmods.com/morrowind/mods/53119) - June 2023
-  - **Description:** Explore the eerie and mysterious world of Morrowind with this haunting mod. Delve into new quests, encounter supernatural entities, and uncover the dark secrets hidden within the game world. This mod provides a chilling and immersive experience for players seeking adventure in Morrowind's haunted landscapes.
-  - **Creation:** Developed using a combination of scripting languages and modding tools specific to the Morrowind game engine. Employed techniques such as level design, quest scripting, asset integration and sound design to bring the atmosphere to life. Made by tweaking a deprecated version of a similar mod, combining it with various community efforts and fixing localization, texture and consistency issues. Ensured compatibility with an open source engine. Provided continuous updates.
-- **The Sims Mod:** [Billie Eilish - 2021 Gala After-Party](https://www.nexusmods.com/thesims/mods/250) - July 2023
-  - **Description:** Bring a touch of celebrity glamour to your Sims' lives with this mod inspired by the 2021 Gala After-Party. Dress your Sims in fashionable attire and host exclusive gatherings reminiscent of Hollywood's elite events. This mod adds new clothing options for Sims players to enjoy.
-  - **Creation:** Created using modding tools and resources provided by The Sims modding community. Utilized 3D modeling software for creating custom clothing items and textures. Implemented custom animations and interactions using tools compatible with The Sims game engine.
-### **Web Archival**
-- **Archived Software**
-  - [Microsoft.VCLibs.110.00](https://drive.google.com/drive/folders/1963Nzk1LYkkQMjR_nhOOWuRTShVdzc3F?usp=sharing)
-- **Archived Mods**
-  - [White Rabbit Playable NPC Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/9)
-  - [Playable Monsters Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/10)
 # **Work History and Education**
 ### **Current Activities**
   - (2024-) **QA Tester** at UTest (Freelance)
@@ -250,6 +222,38 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
     -  Elementary proficiency
   -   **German**
     -  Elementary proficiency
+#  **Examples of my work**
+### **Bug Reports**
+- An example of bug documentation. [Check the screenshot of the bug report.](https://i.imgur.com/l0uiqWb.png)
+### **Tested Projects**
+- **Unnanounced Project**
+- [**Total War: PHARAOH**](https://pharaoh.totalwar.com/)
+- [**Total War: WARHAMMER 3 - Immortal Empires**](https://www.totalwar.com/blog/tww3_immortalempires_240_faq/)
+- [**Total War: WARHAMMER 3**](https://warhammer3.totalwar.com/)
+- [**Total War: WARHAMMER 2**](https://www.totalwar.com/games/warhammer-ii/)
+- [**A Total War Saga: TROY - Rhesus & Memnon**](https://www.totalwar.com/blog/total-war-troy-rhesus-memnon-faq/)
+- [**A Total War Saga: TROY - Mythos**](https://www.totalwar.com/games/troy/troy-mythos-dlc/)
+- [**A Total War Saga: TROY**](https://www.totalwar.com/games/troy/)
+- [**Lifeslide**](https://lifeslide.io/)
+### **Video Game Mods**
+- **Morrowind Mod:** [jvk1166z.esp - The Haunted Morrowind Mod](https://www.nexusmods.com/morrowind/mods/53119) - June 2023
+  - **Description:** Explore the eerie and mysterious world of Morrowind with this haunting mod. Delve into new quests, encounter supernatural entities, and uncover the dark secrets hidden within the game world. This mod provides a chilling and immersive experience for players seeking adventure in Morrowind's haunted landscapes.
+  - **Creation:** Developed using a combination of scripting languages and modding tools specific to the Morrowind game engine. Employed techniques such as level design, quest scripting, asset integration and sound design to bring the atmosphere to life. Made by tweaking a deprecated version of a similar mod, combining it with various community efforts and fixing localization, texture and consistency issues. Ensured compatibility with an open source engine. Provided continuous updates.
+- **The Sims Mod:** [Billie Eilish - 2021 Gala After-Party](https://www.nexusmods.com/thesims/mods/250) - July 2023
+  - **Description:** Bring a touch of celebrity glamour to your Sims' lives with this mod inspired by the 2021 Gala After-Party. Dress your Sims in fashionable attire and host exclusive gatherings reminiscent of Hollywood's elite events. This mod adds new clothing options for Sims players to enjoy.
+  - **Creation:** Created using modding tools and resources provided by The Sims modding community. Utilized 3D modeling software for creating custom clothing items and textures. Implemented custom animations and interactions using tools compatible with The Sims game engine.
+### **Web Archival**
+- **Archived Software**
+  - [Microsoft.VCLibs.110.00](https://drive.google.com/drive/folders/1963Nzk1LYkkQMjR_nhOOWuRTShVdzc3F?usp=sharing)
+- **Archived Mods**
+  - [White Rabbit Playable NPC Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/9)
+  - [Playable Monsters Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/10)
+### **Best Times**
+  - **Harry Potter and the Chamber of Secrets (PC)**
+    - **Any%** - 45:39 (96th Worldwide)
+  - **Harry Potter Category Extensions**
+    - **2PC Chungus%** - 9:59:020 (20th Worldwide)
+    - **2PC NG+** - 9:51:470 (30th Worldwide)
 #  **Miscellaneous Notes**
 ### **PC Specs**
 #### **Laptop**
@@ -270,13 +274,6 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   - **USB Hub:** Trust Halyx
   - **Desk:** Ikea Utespelare
   - **Chair:** Cougar - Armor Elite, Royal
-#
-### **Best Times**
-  - **Harry Potter and the Chamber of Secrets (PC)**
-    - **Any%** - 45:39 (96th Worldwide)
-  - **Harry Potter Category Extensions**
-    - **2PC Chungus%** - 9:59:020 (20th Worldwide)
-    - **2PC NG+** - 9:51:470 (30th Worldwide)
 #
 ### **Referrals**
   - **Freelance** 
