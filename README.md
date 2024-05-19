@@ -2,7 +2,6 @@
 ## Table of Contents
   - [**About Me**](#about-me)
     - [Objective](#objective)
-  - [**CV**](#cv)
   - [**Skills**](#skills)
     - [Testing Skills](#testing-skills)
     - [Methodologies](#methologies)
@@ -52,8 +51,6 @@ These diverse interests not only enrich my personal life but also inform and ins
 #
 ### Objective
 To obtain a remote position in a dynamic and innovative organization where I can use my technical and analytical skills in an agile environment.
-#  CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1f60C9fG812FchqJYNyAEo_Nb9KRVVl_j/view?usp=sharing).
 # Skills
 ### **Testing Skills**
 - **Manual Testing**
