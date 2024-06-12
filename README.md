@@ -221,7 +221,7 @@ To obtain a remote position in a dynamic and innovative organization where I can
     -  Elementary proficiency
 #  **Examples of my work**
 ### **Bug Reports**
-- An example of bug documentation. [Check the screenshot of the bug report.](https://i.imgur.com/l0uiqWb.png)
+- An example of bug documentation. [Check the screenshot of the bug report.]
 ### **Tested Projects**
 - **Unnanounced Project**
 - [**Total War: PHARAOH**](https://pharaoh.totalwar.com/)
