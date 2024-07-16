@@ -245,8 +245,8 @@ To obtain a remote position in a dynamic and innovative organization where I can
 - **Archived Software**
   - [Microsoft.VCLibs.110.00](https://drive.google.com/drive/folders/1963Nzk1LYkkQMjR_nhOOWuRTShVdzc3F?usp=sharing)
 - **Archived Mods**
-  - [White Rabbit Playable NPC Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/9)
   - [Playable Monsters Pack for Vampire: The Masquerade - Redemption](https://www.nexusmods.com/vampireredemption/mods/10)
+and many others...
 ### **Best Times**
   - **Harry Potter and the Chamber of Secrets (PC)**
     - **Any%** - 45:39 (96th Worldwide)
